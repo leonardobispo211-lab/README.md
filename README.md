@@ -1,5 +1,4 @@
-# Carteira de Investimentos - CP2
-
+# Carteira de Investimentos 
 Programa em C (terminal) que simula uma carteira de investimentos acessíveis, suportando múltiplos ativos simultâneos com persistência de dados.
 
 **Tema:** inclusão financeira (ODS 8.10 da ONU).  
